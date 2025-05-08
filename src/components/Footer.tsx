@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-10 mb-10">
           <div className="md:col-span-4">
-            <h3 className="text-2xl font-playfair font-semibold mb-4">ELITE MODELS</h3>
+            <h3 className="text-2xl font-playfair font-semibold mb-4">ZARA MODELS</h3>
             <p className="text-sm text-white/70 mb-6 max-w-xs">
               Ведущая модельная школа, открывающая новые имена в мире моды и помогающая талантливым людям
               реализовать свой потенциал в модельной индустрии.
@@ -77,7 +77,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-2 text-sm text-white/70">
                 <Icon name="Mail" className="h-5 w-5 shrink-0" />
-                <span>info@elite-models.ru</span>
+                <span>info@zara-models.ru</span>
               </li>
               <li className="flex items-center space-x-2 text-sm text-white/70">
                 <Icon name="Clock" className="h-5 w-5 shrink-0" />
@@ -108,7 +108,7 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-xs text-white/50 mb-4 md:mb-0">
-            © 2025 ELITE MODELS. Все права защищены.
+            © 2025 ZARA MODELS. Все права защищены.
           </p>
           <div className="flex space-x-6">
             <Link to="/privacy" className="text-xs text-white/50 hover:text-white/70 transition-colors">

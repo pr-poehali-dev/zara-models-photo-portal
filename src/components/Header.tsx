@@ -24,7 +24,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <h1 className="text-2xl font-playfair font-semibold tracking-tight">
-            ELITE <span className="text-model-primary">MODELS</span>
+            ZARA <span className="text-model-primary">MODELS</span>
           </h1>
         </Link>
         

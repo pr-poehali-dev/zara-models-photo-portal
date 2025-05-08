@@ -24,7 +24,7 @@ const HeroSection = () => {
             Ваш шанс стать <span className="text-model-primary">моделью</span> под руководством Маккайды Аллы
           </h1>
           <p className="text-lg md:text-xl text-white/80 mb-8 max-w-xl">
-            Объявляем результаты конкурса на бесплатное обучение в модельной школе ELITE MODELS
+            Объявляем результаты конкурса на бесплатное обучение в модельной школе ZARA MODELS
             с профессиональным преподавателем.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
